@@ -5,6 +5,8 @@ https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
 https://live2-mediaset-it.akamaized.net/Content/hls_h0_cls_vos/live/channel(KB)/index.m3u8
 #EXTINF:-1,K2
 https://it.dplay.com/e3148f21-6b8e-4cc7-9601-b981692b792b
+#EXTINF:-1,Paramount Channel
+http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8
 #EXTINF:-1,Real Time
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8?hdnts=st=1593869575~exp=1593955975~acl=/i/*~hmac=346ec14b9c683fb21702d7beeb739c3a83fb7a7e63269245d164d496ef3cab82&mux_audio=true
 #EXTINF:-1,Minimax
