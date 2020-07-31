@@ -3,8 +3,8 @@
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
 #EXTINF:-1,Boing
 https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(kb)/1569950814459item-04item_init.m4i
-#EXTINF:-1,Rai Gulp
-http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8
+#EXTINF:-1,Rai Yoyo
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
 #EXTINF:-1,Real Time
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8?hdnts=st=1593869575~exp=1593955975~acl=/i/*~hmac=346ec14b9c683fb21702d7beeb739c3a83fb7a7e63269245d164d496ef3cab82&mux_audio=true
 #EXTINF:-1,Minimax
