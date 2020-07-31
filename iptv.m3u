@@ -7,7 +7,9 @@ https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(kb)/1569
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8?hdnts=st=1593869575~exp=1593955975~acl=/i/*~hmac=346ec14b9c683fb21702d7beeb739c3a83fb7a7e63269245d164d496ef3cab82&mux_audio=true
 #EXTINF:-1,Minimax
 http://edge76.rcs-rds.ro/digiedge2/minimaxehq.stream/chunklist_w382740717.m3u8?is=37&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,Alfa Omega
-http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/chunklist_w2126131815.m3u8
 #EXTINF:-1,Digi 24
 http://tv.skynetmd.eu:25461/Corona/Virus/1594?checkedby:iptvcat.com
+#EXTINF:-1,Moldova 1
+http://212.0.209.209:1935/live/MoldovaUnu1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Alfa Omega
+http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/chunklist_w2126131815.m3u8
