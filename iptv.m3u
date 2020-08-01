@@ -2,9 +2,7 @@
 #EXTINF:-1,Super!
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
 #EXTINF:-1,K2
-https://cbrz83.blogspot.com/2020/08/italy-iptv-server-premium-hd-channels.html
-#EXTINF:-1,Real Time
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8?hdnts=st=1593869575~exp=1593955975~acl=/i/*~hmac=346ec14b9c683fb21702d7beeb739c3a83fb7a7e63269245d164d496ef3cab82&mux_audio=true
+https://sbshdlu2-lh.akamaihd.net/i/sbshdl_21@443297/master.m3u8?hdnts=st=1596280919~exp=1596367319~acl=/i/*~hmac=53a562d7c5e726a389dd63976025edb2517a4add6ab0434ab2512130a8e8626b&mux_audio=true
 #EXTINF:-1,Minimax
 http://edge76.rcs-rds.ro/digiedge2/minimaxehq.stream/chunklist_w382740717.m3u8?is=37&src=app&t=00000000000000000000000000000000
 #EXTINF:-1,Digi 24
