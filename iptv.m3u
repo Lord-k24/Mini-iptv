@@ -2,7 +2,7 @@
 #EXTINF:-1,Super!
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
 #EXTINF:-1,K2
-https://sbshdlu2-lh.akamaihd.net/i/sbshdl_21@443297/master.m3u8?hdnts=st=1596280919~exp=1596367319~acl=/i/*~hmac=53a562d7c5e726a389dd63976025edb2517a4add6ab0434ab2512130a8e8626b&mux_audio=true
+https://sbshdlu2-lh.akamaihd.net/i/sbshdl_21@443297/master.m3u8?hdnts=st=1596382841~exp=1596469241~acl=/i/*~hmac=fb8613f1e8ef5c886fb42ee73f4b73f32398d00e75bdf9325acd228f9c0046bc&mux_audio=true
 #EXTINF:-1,Frisbee
 https://sbshdlu1-lh.akamaihd.net/i/sbshdl_21@443313/master.m3u8?hdnts=st=1596306798~exp=1596393198~acl=/i/*~hmac=290a716b5e12ee56a06e2d8a60f522e9c69da88925be56fa8012d254a2601310&mux_audio=true
 #EXTINF:-1,Real Time
