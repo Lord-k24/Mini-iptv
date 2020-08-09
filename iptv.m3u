@@ -2,7 +2,7 @@
 #EXTINF:-1,Super!
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
 #EXTINF:-1,K2
-https://sbshdlu2-lh.akamaihd.net/i/sbshdl_21@443297/master.m3u8?hdnts=st=1596382841~exp=1596469241~acl=/i/*~hmac=fb8613f1e8ef5c886fb42ee73f4b73f32398d00e75bdf9325acd228f9c0046bc&mux_audio=true
+https://sbshdlu2-lh.akamaihd.net/i/sbshdl_21@443297/master.m3u8?hdnts=st=1596975243~exp=1597061643~acl=/i/*~hmac=2f6347c2a48eaa8e5447fcb0979cfbc4bf8f347c965eeba361f14205f0f5dde8&mux_audio=true
 #EXTINF:-1,Frisbee
 https://sbshdlu1-lh.akamaihd.net/i/sbshdl_21@443313/master.m3u8?hdnts=st=1596306798~exp=1596393198~acl=/i/*~hmac=290a716b5e12ee56a06e2d8a60f522e9c69da88925be56fa8012d254a2601310&mux_audio=true
 #EXTINF:-1,Real Time
@@ -10,7 +10,7 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8?hdnts=st=15963062
 #EXTINF:-1,Minimax 
 http://edge76.rcs-rds.ro/digiedge2/minimaxehq.stream/chunklist_w382740717.m3u8?is=37&src=app&t=00000000000000000000000000000000
 #EXTINF:-1,Digi 24
-http://tv.skynetmd.eu:25461/Corona/Virus/1594?checkedby:iptvcat.com
+https://edge30.rcs-rds.ro/V4-9302095-2b7cdb96f4e0ec94d103d6dd14c4786a-1568104559-0-1596976139-507-digi24/digi24/digi24-abr.m3u8?is=4&ns=digi24&pe=site&s=site&sn=digi24.ro&p=browser&pd=linux&quality=hq&t=00000000000000000000000000000000&t4=V4-9302095-2b7cdb96f4e0ec94d103d6dd14c4786a-1568104559-0-1596976139-507-digi24
 #EXTINF:-1,Moldova 1
 http://212.0.209.209:1935/live/MoldovaUnu1/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Alfa Omega
