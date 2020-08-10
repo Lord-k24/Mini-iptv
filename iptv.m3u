@@ -9,6 +9,8 @@ https://sbshdlu2-lh.akamaihd.net/i/sbshdl_21@443297/master.m3u8?hdnts=st=1596975
 https://sbshdlu1-lh.akamaihd.net/i/sbshdl_21@443313/master.m3u8?hdnts=st=1596306798~exp=1596393198~acl=/i/*~hmac=290a716b5e12ee56a06e2d8a60f522e9c69da88925be56fa8012d254a2601310&mux_audio=true
 #EXTINF:-1,Real Time
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8?hdnts=st=1596306228~exp=1596392628~acl=/i/*~hmac=a15b43c2acb21906fe5dfb88e96b85f1ef1f79c2472e20ec01c434ff41abf8e4&mux_audio=true
+#EXTINF:-1,Canale 5
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
 #EXTINF:-1,Minimax 
 http://edge76.rcs-rds.ro/digiedge2/minimaxehq.stream/chunklist_w382740717.m3u8?is=37&src=app&t=00000000000000000000000000000000
 #EXTINF:-1,Digi 24
