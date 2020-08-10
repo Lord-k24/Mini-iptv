@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1,Super!
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
+#EXTINF:-1,Boing
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KB)/stream04/streamPlaylist.m3u8
+#EXTINF:-1,Boing 1
+https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(kb)/1569950814459item-03item_init.m4i
 #EXTINF:-1,K2
 https://sbshdlu2-lh.akamaihd.net/i/sbshdl_21@443297/master.m3u8?hdnts=st=1596975243~exp=1597061643~acl=/i/*~hmac=2f6347c2a48eaa8e5447fcb0979cfbc4bf8f347c965eeba361f14205f0f5dde8&mux_audio=true
 #EXTINF:-1,Frisbee
