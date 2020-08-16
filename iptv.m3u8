@@ -4,7 +4,7 @@ https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
 #EXTINF:-1,Boing
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KB)/stream04/streamPlaylist.m3u8
 #EXTINF:-1,K2
-https://sbshdlu2-lh.akamaihd.net/i/sbshdl_21@443297/index_544_av-p.m3u8?sd=10&rebase=on&id=AgBdd2Af1ADbB3o8OV8ej5WD9beTJGSqLi891qxLEF9LV7d9eqkQPKMvp+nH6Q4mxNLLYxMvKJN7mA%3d%3d&hdntl=exp=1597672954~acl=%2fi%2f*~data=hdntl~hmac=13741be04e35b3b1aad08ee00bfdde504738a5d5abf60cd9d0bfbe731ae58106
+https://sbshdlu2-lh.akamaihd.net/i/sbshdl_21@443297/master.m3u8?hdnts=st=1597593986~exp=1597680386~acl=/i/*~hmac=90b36d746324adf6410305ffcd92d2723db3669bfe8e57727fdd0207aac45e8d&mux_audio=true
 #EXTINF:-1,Frisbee
 https://sbshdlu1-lh.akamaihd.net/i/sbshdl_21@443313/master.m3u8?hdnts=st=1596306798~exp=1596393198~acl=/i/*~hmac=290a716b5e12ee56a06e2d8a60f522e9c69da88925be56fa8012d254a2601310&mux_audio=true
 #EXTINF:-1,Cartoonito
