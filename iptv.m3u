@@ -2,7 +2,7 @@
 #EXTINF:-1,Super!
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
 #EXTINF:-1,Boing
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KB)/stream04/streamPlaylist.m3u8
+http://176.9.111.190:31000/live/ropon@25/ropon25/745.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,K2
 https://sbshdlu2-lh.akamaihd.net/i/sbshdl_21@443297/master.m3u8?hdnts=st=1598187395~exp=1598273795~acl=/i/*~hmac=56bd07e6ce87271930f1c091bad8b843c8d8d59fb5f630c29b902af9b1fd3eab&mux_audio=true
 #EXTINF:-1,Frisbee
