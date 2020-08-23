@@ -4,11 +4,11 @@ https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
 #EXTINF:-1,Boing
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KB)/stream04/streamPlaylist.m3u8
 #EXTINF:-1,K2
-https://sbshdlu2-lh.akamaihd.net/i/sbshdl_21@443297/master.m3u8?hdnts=st=1597593986~exp=1597680386~acl=/i/*~hmac=90b36d746324adf6410305ffcd92d2723db3669bfe8e57727fdd0207aac45e8d&mux_audio=true
+https://sbshdlu2-lh.akamaihd.net/i/sbshdl_21@443297/master.m3u8?hdnts=st=1598187395~exp=1598273795~acl=/i/*~hmac=56bd07e6ce87271930f1c091bad8b843c8d8d59fb5f630c29b902af9b1fd3eab&mux_audio=true
 #EXTINF:-1,Frisbee
-https://sbshdlu1-lh.akamaihd.net/i/sbshdl_21@443313/master.m3u8?hdnts=st=1596306798~exp=1596393198~acl=/i/*~hmac=290a716b5e12ee56a06e2d8a60f522e9c69da88925be56fa8012d254a2601310&mux_audio=true
+https://sbshdlu1-lh.akamaihd.net/i/sbshdl_21@443313/master.m3u8?hdnts=st=1598180530~exp=1598266930~acl=/i/*~hmac=ef5bb1a945238f77e73a7f34f7c419e3cb113a08ea43136df9d57d2bfb419f32&mux_audio=true
 #EXTINF:-1,Cartoonito
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(la)/index.m3u8
+https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(la)/1593109329486item-03item_init.m4i
 #EXTINF:-1,Real Time
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8?hdnts=st=1596306228~exp=1596392628~acl=/i/*~hmac=a15b43c2acb21906fe5dfb88e96b85f1ef1f79c2472e20ec01c434ff41abf8e4&mux_audio=true
 #EXTINF:-1,Canale 5
