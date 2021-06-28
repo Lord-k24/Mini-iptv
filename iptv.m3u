@@ -4,7 +4,7 @@ https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
 #EXTINF:-1,Boing
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
 #EXTINF:-1,Rai gulp
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
+https://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
 #EXTINF:-1,Rai 1
 http://194.76.186.69:8000/play/a0d1
 #EXTINF:-1,Cartoonito
