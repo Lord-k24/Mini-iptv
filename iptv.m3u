@@ -4,7 +4,7 @@ https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
 #EXTINF:-1,Boing
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
 #EXTINF:-1,Rai gulp
-http://194.76.186.69:8000/play/a00q
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
 #EXTINF:-1,Rai 1
 http://194.76.186.69:8000/play/a0d1
 #EXTINF:-1,Cartoonito
@@ -19,7 +19,7 @@ http://edge76.rcs-rds.ro/digiedge2/minimaxehq.stream/chunklist_w382740717.m3u8?i
 http://d-e-02.cdn.rdsnet.ro/DVR/digi24hdb.stream/playlit.m3u8
 #EXTINF:-1,Moldova 1
 http://212.0.209.209:1935/live/MoldovaUnu1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,Publika
+#EXTINF:-1,Publika TV
 https://list.iptvcat.com/my_list/s/62f9ea3de595d5e74771095e99da6666.m3u8
 #EXTINF:-1,Alfa Omega
 http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/chunklist_w2126131815.m3u8
