@@ -2,24 +2,24 @@
 #EXTINF:-1,Super!
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
 #EXTINF:-1,Boing
-http://194.76.186.69:8000/play/a0r3
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
 #EXTINF:-1,Rai gulp
-https://list.iptvcat.com/my_list/s/badc246e26edecc94335a828961beee1.m3u8
-#EXTINF:-1,Frisbee
-https://sbshdlu1-lh.akamaihd.net/i/sbshdl_21@443313/master.m3u8?hdnts=st=1598180530~exp=1598266930~acl=/i/*~hmac=ef5bb1a945238f77e73a7f34f7c419e3cb113a08ea43136df9d57d2bfb419f32&mux_audio=true
+http://194.76.186.69:8000/play/a00q
+#EXTINF:-1,Rai 1
+http://194.76.186.69:8000/play/a0d1
 #EXTINF:-1,Cartoonito
-https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(la)/1593109329486item-03item_init.m4i
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(la)/index.m3u8
 #EXTINF:-1,Real Time
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8?hdnts=st=1596306228~exp=1596392628~acl=/i/*~hmac=a15b43c2acb21906fe5dfb88e96b85f1ef1f79c2472e20ec01c434ff41abf8e4&mux_audio=true
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
 #EXTINF:-1,Canale 5
-http://194.76.186.69:8000/play/a00f
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
 #EXTINF:-1,Minimax 
 http://edge76.rcs-rds.ro/digiedge2/minimaxehq.stream/chunklist_w382740717.m3u8?is=37&src=app&t=00000000000000000000000000000000
 #EXTINF:-1,Digi 24
 http://d-e-02.cdn.rdsnet.ro/DVR/digi24hdb.stream/playlit.m3u8
 #EXTINF:-1,Moldova 1
 http://212.0.209.209:1935/live/MoldovaUnu1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,Publica
+#EXTINF:-1,Publika
 https://list.iptvcat.com/my_list/s/62f9ea3de595d5e74771095e99da6666.m3u8
 #EXTINF:-1,Alfa Omega
 http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/chunklist_w2126131815.m3u8
