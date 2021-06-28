@@ -2,9 +2,9 @@
 #EXTINF:-1,Super!
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
 #EXTINF:-1,Boing
-http://176.9.111.190:31000/live/ropon@25/ropon25/745.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,K2
-https://sbshdlu2-lh.akamaihd.net/i/sbshdl_21@443297/master.m3u8?hdnts=st=1598606598~exp=1598692998~acl=/i/*~hmac=47752aa366f930c6d8f6c8c9b6ab3cf7380b4cf0558ee2df84720852931b2711&mux_audio=true
+http://194.76.186.69:8000/play/a0r3
+#EXTINF:-1,Rai gulp
+https://list.iptvcat.com/my_list/s/badc246e26edecc94335a828961beee1.m3u8
 #EXTINF:-1,Frisbee
 https://sbshdlu1-lh.akamaihd.net/i/sbshdl_21@443313/master.m3u8?hdnts=st=1598180530~exp=1598266930~acl=/i/*~hmac=ef5bb1a945238f77e73a7f34f7c419e3cb113a08ea43136df9d57d2bfb419f32&mux_audio=true
 #EXTINF:-1,Cartoonito
@@ -12,16 +12,22 @@ https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(la)/1593
 #EXTINF:-1,Real Time
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8?hdnts=st=1596306228~exp=1596392628~acl=/i/*~hmac=a15b43c2acb21906fe5dfb88e96b85f1ef1f79c2472e20ec01c434ff41abf8e4&mux_audio=true
 #EXTINF:-1,Canale 5
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
+http://194.76.186.69:8000/play/a00f
 #EXTINF:-1,Minimax 
 http://edge76.rcs-rds.ro/digiedge2/minimaxehq.stream/chunklist_w382740717.m3u8?is=37&src=app&t=00000000000000000000000000000000
 #EXTINF:-1,Digi 24
-https://edge30.rcs-rds.ro/V4-9302095-2b7cdb96f4e0ec94d103d6dd14c4786a-1568104559-0-1596976139-507-digi24/digi24/digi24-abr.m3u8?is=4&ns=digi24&pe=site&s=site&sn=digi24.ro&p=browser&pd=linux&quality=hq&t=00000000000000000000000000000000&t4=V4-9302095-2b7cdb96f4e0ec94d103d6dd14c4786a-1568104559-0-1596976139-507-digi24
+http://d-e-02.cdn.rdsnet.ro/DVR/digi24hdb.stream/playlit.m3u8
 #EXTINF:-1,Moldova 1
 http://212.0.209.209:1935/live/MoldovaUnu1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Publica
+https://list.iptvcat.com/my_list/s/62f9ea3de595d5e74771095e99da6666.m3u8
 #EXTINF:-1,Alfa Omega
 http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/chunklist_w2126131815.m3u8
+#EXTINF:-1,Первый канал
+https://cdn1.mobiletv.bg/T5/perviy_kanal/perviy_kanal_794613_850k.m3u8
+#EXTINF:-1,ТНТ
+http://ott-cdn.ucom.am/s19/04.m3u8
 #EXTINF:-1,HTB
-https://mhd.limehd.tv/p/7EQ31oxtygHscwWay1TBDA,1596371318/streaming/ntvnn/324/vh1w/playlist.m3u8
+http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/ntv/playlist.m3u8
 #EXTINF:-1,RBK
 http://e8.online.video.rbc.ru/online2/rbctv_576p/index.m3u8
